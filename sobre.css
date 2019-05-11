@@ -1,10 +1,25 @@
-h1{
+body{
+	
 	font-family: sans-serif;
-	text-align: justify;
-	color: orange;
+	text-align: center;
+	color: black;
+}
+h1{
+
+	background-image:url("background.jpg");
+	color: white;
 }
 h2{
-	font-family: serif;
-	text-align: justify;
-	color: orange;
+
+	border-width: 1px;
+  	border-style: dashed;
+  	border-color: black;
+}
+figure{
+	background-color: #A0A0A0;
+	border-width: 1px;
+  	border-style: solid;
+  	border-color: black;
+  	font-style: italic ;
+  	text-align: center;
 }
