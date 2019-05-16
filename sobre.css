@@ -25,3 +25,13 @@ figcaption{
 	font-style: italic ;
   	
 }
+#Centro{
+	margin: auto;
+	width: 700px;
+}
+#familia{
+	float: right;
+}
+#rodape{
+	background-image:url("fundo-rodape.png");
+}
