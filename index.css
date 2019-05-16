@@ -1,0 +1,10 @@
+.sacola{
+	background-image: url("sacola.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+
+	font-size: 14px;
+	padding-right: 35px;
+	text-align: right;
+	width: 140px;
+}
