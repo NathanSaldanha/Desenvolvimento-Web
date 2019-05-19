@@ -27,7 +27,7 @@ figcaption{
   	
 }
 #Centro{
-	
+
 	padding-top: 8px;
 	margin: auto;
 	width: 570px;
@@ -38,6 +38,6 @@ figcaption{
 	float: right;
 }
 #rodape{
-	background-image:url("fundo-rodape.png");
+	background-image:url("img/fundo-rodape.png");
 	height: 52px
 }
