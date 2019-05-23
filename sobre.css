@@ -18,7 +18,6 @@ h2{
 }
 figure{
 	background-color: #E0E0E0;
-	
   	text-align: center;
   	
 }
@@ -30,7 +29,7 @@ figcaption{
 
 	padding-top: 8px;
 	margin: auto;
-	width: 570px;
+	width: 550px;
 	height: 400px;
 
 }
@@ -39,5 +38,5 @@ figcaption{
 }
 #rodape{
 	background-image:url("img/fundo-rodape.png");
-	height: 52px
+	height: 24px;
 }
