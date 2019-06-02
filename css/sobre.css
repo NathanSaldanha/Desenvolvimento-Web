@@ -7,7 +7,7 @@ body{
 
 h1{
 
-	background-image:url("img/sobre-background.jpg");
+	background-image:url("../img/sobre-background.jpg");
 	color: black;
 	text-align:left;
 }
@@ -37,6 +37,6 @@ figcaption{
 	float: right;
 }
 #rodape{
-	background-image:url("img/fundo-rodape.png");
+	background-image:url("../img/fundo-rodape.png");
 	height: 24px;
 }
